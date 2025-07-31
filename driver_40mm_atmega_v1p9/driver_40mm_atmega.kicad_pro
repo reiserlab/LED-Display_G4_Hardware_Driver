@@ -1132,7 +1132,7 @@
       "plot": "production/rev5/",
       "pos_files": "production/rev4/",
       "specctra_dsn": "driver_40mm_atmega.dsn",
-      "step": "assets/driver_40mm_atmega.step",
+      "step": "${KIPRJMOD}/assets/driver_40mm_atmega.step",
       "svg": "",
       "vrml": ""
     },

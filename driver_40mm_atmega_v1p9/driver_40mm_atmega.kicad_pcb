@@ -9,8 +9,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "G4.1 Driver 40mm ATMega")
-		(date "2025-05-28")
-		(rev "1.9.5")
+		(date "2025-07-31")
+		(rev "1.9.6")
 		(company "Reiser Lab @ Janelia")
 	)
 	(layers
@@ -77894,7 +77894,7 @@
 			(uuid "eac0cebe-3cf0-42e3-8dad-76130ffe90e2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl"
+		(model "${KIPRJMOD}/driver_custom.pretty/3dmodels/QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -78615,7 +78615,7 @@
 			(uuid "b44601fd-3eff-4adf-868e-cdc1082fc399")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl"
+		(model "${KIPRJMOD}/driver_custom.pretty/3dmodels/QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -79336,7 +79336,7 @@
 			(uuid "c62e5d74-0a98-4925-94bf-a24f857c2135")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl"
+		(model "${KIPRJMOD}/driver_custom.pretty/3dmodels/QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -80057,7 +80057,7 @@
 			(uuid "ab952155-7182-4d5f-9130-21a11a56030a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl"
+		(model "${KIPRJMOD}/driver_custom.pretty/3dmodels/QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -126897,7 +126897,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "2025-05-28"
+	(gr_text "${ISSUE_DATE}"
 		(at 51.562 69.342 90)
 		(layer "B.SilkS")
 		(uuid "22bf7120-689f-4909-9165-84b3235c9914")
@@ -126947,7 +126947,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "G4.1 Driver v1.9.5"
+	(gr_text "G4.1 Driver ${REVISION}"
 		(at 51.054 67.818 90)
 		(layer "B.SilkS")
 		(uuid "b0ac9f2f-7d18-4306-9233-84efeeb740ce")
