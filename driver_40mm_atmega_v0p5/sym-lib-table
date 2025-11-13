@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name driver_40mm_atmega_v0p5)(type Legacy)(uri ${KIPRJMOD}/driver_40mm_atmega_v0p5.lib)(options "")(descr ""))
-)
