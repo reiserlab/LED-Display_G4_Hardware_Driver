@@ -6,8 +6,8 @@
 	(paper "User" 711.2 596.9)
 	(title_block
 		(title "G4.1 Driver 40mm ATMega")
-		(date "2025-07-31")
-		(rev "1.9.6")
+		(date "2025-11-13")
+		(rev "1.9.7")
 		(company "Reiser Lab @ Janelia")
 	)
 	(lib_symbols

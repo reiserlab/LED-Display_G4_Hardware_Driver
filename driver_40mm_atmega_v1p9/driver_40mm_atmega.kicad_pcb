@@ -9,8 +9,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "G4.1 Driver 40mm ATMega")
-		(date "2025-07-31")
-		(rev "1.9.6")
+		(date "2025-11-13")
+		(rev "1.9.7")
 		(company "Reiser Lab @ Janelia")
 	)
 	(layers
@@ -387,7 +387,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -679,7 +679,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -971,7 +971,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -1263,7 +1263,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -1555,7 +1555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -1847,7 +1847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -2139,7 +2139,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -2431,7 +2431,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -2723,7 +2723,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -3015,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -3307,7 +3307,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -3599,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -3891,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -4183,7 +4183,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -4475,7 +4475,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -4767,7 +4767,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -5059,7 +5059,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -5351,7 +5351,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -5643,7 +5643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -5935,7 +5935,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -6227,7 +6227,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -6519,7 +6519,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -6811,7 +6811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -7103,7 +7103,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -7395,7 +7395,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -7687,7 +7687,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -7979,7 +7979,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -8271,7 +8271,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -8563,7 +8563,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -8855,7 +8855,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -9147,7 +9147,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -9439,7 +9439,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -9731,7 +9731,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -10023,7 +10023,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -10315,7 +10315,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -10899,7 +10899,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -11191,7 +11191,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -11483,7 +11483,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -11775,7 +11775,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -12067,7 +12067,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -12359,7 +12359,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -12651,7 +12651,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -12943,7 +12943,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -13235,7 +13235,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -13527,7 +13527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -13819,7 +13819,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -14111,7 +14111,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -14403,7 +14403,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -14695,7 +14695,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -14987,7 +14987,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -15279,7 +15279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -15571,7 +15571,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -15863,7 +15863,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -16155,7 +16155,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -16447,7 +16447,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -16739,7 +16739,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -17031,7 +17031,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -17323,7 +17323,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -17615,7 +17615,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -17907,7 +17907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -18199,7 +18199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -18491,7 +18491,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -18783,7 +18783,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -19075,7 +19075,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -19367,7 +19367,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -19659,7 +19659,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -19951,7 +19951,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -20243,7 +20243,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -20535,7 +20535,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -20827,7 +20827,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -21119,7 +21119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -21411,7 +21411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -21703,7 +21703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -21995,7 +21995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -22287,7 +22287,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -22579,7 +22579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -22871,7 +22871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -23163,7 +23163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -23455,7 +23455,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -23747,7 +23747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -24039,7 +24039,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -24331,7 +24331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -24623,7 +24623,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -24915,7 +24915,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -25207,7 +25207,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -25499,7 +25499,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -25791,7 +25791,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -26083,7 +26083,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -26375,7 +26375,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -26667,7 +26667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -26959,7 +26959,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -27251,7 +27251,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -27543,7 +27543,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -27835,7 +27835,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -28127,7 +28127,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -28419,7 +28419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -28711,7 +28711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -29003,7 +29003,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -29295,7 +29295,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -29587,7 +29587,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -29879,7 +29879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -30171,7 +30171,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -30463,7 +30463,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -30755,7 +30755,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -31047,7 +31047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -31339,7 +31339,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -31631,7 +31631,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -31923,7 +31923,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -32215,7 +32215,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -32507,7 +32507,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -32799,7 +32799,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -33091,7 +33091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -33383,7 +33383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -33675,7 +33675,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -33967,7 +33967,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -34259,7 +34259,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -34551,7 +34551,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -34843,7 +34843,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -35135,7 +35135,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -35427,7 +35427,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -35719,7 +35719,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -36011,7 +36011,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -36303,7 +36303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -36595,7 +36595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -36887,7 +36887,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -37179,7 +37179,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -37471,7 +37471,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -37763,7 +37763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -38055,7 +38055,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -38347,7 +38347,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -38639,7 +38639,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -38931,7 +38931,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -39223,7 +39223,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -39515,7 +39515,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -39807,7 +39807,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -40099,7 +40099,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -40391,7 +40391,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -40683,7 +40683,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -40975,7 +40975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -41267,7 +41267,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -41559,7 +41559,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -41851,7 +41851,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -42143,7 +42143,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -42435,7 +42435,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -42727,7 +42727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -43019,7 +43019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -43311,7 +43311,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -43603,7 +43603,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -43895,7 +43895,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -44187,7 +44187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -44479,7 +44479,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -44771,7 +44771,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -45063,7 +45063,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -45355,7 +45355,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -45647,7 +45647,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -45939,7 +45939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -46231,7 +46231,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -46523,7 +46523,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -46815,7 +46815,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -47107,7 +47107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -47399,7 +47399,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -47691,7 +47691,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -47983,7 +47983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -48275,7 +48275,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -48567,7 +48567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -48859,7 +48859,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -49151,7 +49151,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -49443,7 +49443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -49735,7 +49735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -50027,7 +50027,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -50319,7 +50319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -50611,7 +50611,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -50903,7 +50903,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -51195,7 +51195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -51487,7 +51487,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -51779,7 +51779,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -52071,7 +52071,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -52363,7 +52363,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -52655,7 +52655,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -52947,7 +52947,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -53239,7 +53239,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -53531,7 +53531,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -53823,7 +53823,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -54115,7 +54115,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -54407,7 +54407,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -54699,7 +54699,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -54991,7 +54991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -55283,7 +55283,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -55575,7 +55575,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -55867,7 +55867,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -56159,7 +56159,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -56451,7 +56451,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -56743,7 +56743,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -57035,7 +57035,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -57327,7 +57327,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -57619,7 +57619,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -57911,7 +57911,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -58203,7 +58203,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -58495,7 +58495,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -58787,7 +58787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -59079,7 +59079,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -59371,7 +59371,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -59663,7 +59663,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -59955,7 +59955,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -60247,7 +60247,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -60539,7 +60539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -60831,7 +60831,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -61123,7 +61123,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -61415,7 +61415,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -61707,7 +61707,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -61999,7 +61999,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -62291,7 +62291,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -62583,7 +62583,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -62875,7 +62875,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -63167,7 +63167,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -63459,7 +63459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -63751,7 +63751,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -64043,7 +64043,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -64335,7 +64335,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -64627,7 +64627,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -64919,7 +64919,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -65211,7 +65211,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -65503,7 +65503,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -65795,7 +65795,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -66087,7 +66087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -66379,7 +66379,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -66671,7 +66671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -66963,7 +66963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -67255,7 +67255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -67547,7 +67547,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -67839,7 +67839,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -68131,7 +68131,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -68423,7 +68423,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -68715,7 +68715,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -69007,7 +69007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -69299,7 +69299,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -69591,7 +69591,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -69883,7 +69883,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -70175,7 +70175,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -70467,7 +70467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -70759,7 +70759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -71051,7 +71051,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -71343,7 +71343,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -71635,7 +71635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -71927,7 +71927,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -72219,7 +72219,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -72511,7 +72511,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -72803,7 +72803,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -73095,7 +73095,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -73387,7 +73387,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -73679,7 +73679,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -73971,7 +73971,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -74263,7 +74263,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -74555,7 +74555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -74847,7 +74847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
@@ -75192,7 +75192,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "TSM-102-01-L-DV-P-TR"
+		(property "PN" "2.54-2*2P立贴针"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -75711,7 +75711,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "TSM-102-01-L-DV-P-TR"
+		(property "PN" "2.54-2*2P立贴针"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -76230,7 +76230,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "TSM-102-01-L-DV-P-TR"
+		(property "PN" "2.54-2*2P立贴针"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -76749,7 +76749,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "TSM-102-01-L-DV-P-TR"
+		(property "PN" "2.54-2*2P立贴针"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -80139,7 +80139,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -80153,7 +80153,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -80383,7 +80383,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -80665,7 +80665,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -80947,7 +80947,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -81549,7 +81549,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -81562,7 +81562,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -81600,7 +81600,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -81614,7 +81614,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -81831,7 +81831,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -81844,7 +81844,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -81882,7 +81882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -81896,7 +81896,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82164,7 +82164,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82178,7 +82178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82408,7 +82408,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -82728,7 +82728,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82742,7 +82742,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -82959,7 +82959,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -82972,7 +82972,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -83010,7 +83010,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -83024,7 +83024,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -83254,7 +83254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -83536,7 +83536,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -83818,7 +83818,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -84138,7 +84138,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84152,7 +84152,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84420,7 +84420,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84434,7 +84434,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84664,7 +84664,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -84933,7 +84933,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -84946,7 +84946,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -84984,7 +84984,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -84998,7 +84998,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -85215,7 +85215,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -85228,7 +85228,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -85266,7 +85266,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -85280,7 +85280,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -85510,7 +85510,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -85830,7 +85830,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -85844,7 +85844,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -86112,7 +86112,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -86126,7 +86126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -86356,7 +86356,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -86676,7 +86676,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -86690,7 +86690,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -86920,7 +86920,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -87240,7 +87240,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -87254,7 +87254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -87804,7 +87804,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -87817,7 +87817,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -87855,7 +87855,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -87869,7 +87869,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -88099,7 +88099,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -88419,7 +88419,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -88433,7 +88433,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -88650,7 +88650,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -88663,7 +88663,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -88701,7 +88701,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -88715,7 +88715,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -89265,7 +89265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -89279,7 +89279,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -89829,7 +89829,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -89843,7 +89843,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -90073,7 +90073,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -90637,7 +90637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -90906,7 +90906,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -90919,7 +90919,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -90957,7 +90957,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -90971,7 +90971,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -91201,7 +91201,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -92098,7 +92098,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -92380,7 +92380,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -92649,7 +92649,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -92662,7 +92662,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -92700,7 +92700,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -92714,7 +92714,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -92931,7 +92931,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -92944,7 +92944,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -92982,7 +92982,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -92996,7 +92996,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -93264,7 +93264,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -93278,7 +93278,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -93828,7 +93828,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -93841,7 +93841,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -93879,7 +93879,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -93893,7 +93893,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94161,7 +94161,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94175,7 +94175,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94392,7 +94392,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -94405,7 +94405,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -94443,7 +94443,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94457,7 +94457,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94674,7 +94674,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -94687,7 +94687,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -94725,7 +94725,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94739,7 +94739,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -94969,7 +94969,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -95251,7 +95251,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -95571,7 +95571,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -95585,7 +95585,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -96097,7 +96097,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -96379,7 +96379,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -96699,7 +96699,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -96713,7 +96713,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -96942,7 +96942,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -97339,7 +97339,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -97608,7 +97608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -97621,7 +97621,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -97659,7 +97659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -97673,7 +97673,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -97941,7 +97941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -97955,7 +97955,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -98800,7 +98800,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -99364,7 +99364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -99633,7 +99633,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -99646,7 +99646,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -99684,7 +99684,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99698,7 +99698,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99966,7 +99966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99980,7 +99980,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -100210,7 +100210,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -100492,7 +100492,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -100774,7 +100774,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -101055,7 +101055,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -101452,7 +101452,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -101772,7 +101772,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -101786,7 +101786,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102003,7 +102003,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -102016,7 +102016,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -102054,7 +102054,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102068,7 +102068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102336,7 +102336,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102350,7 +102350,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102567,7 +102567,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -102580,7 +102580,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -102618,7 +102618,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102632,7 +102632,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102862,7 +102862,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -103144,7 +103144,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -103464,7 +103464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -103478,7 +103478,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -103746,7 +103746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -103760,7 +103760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104028,7 +104028,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104042,7 +104042,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104259,7 +104259,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -104272,7 +104272,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -104310,7 +104310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104324,7 +104324,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104541,7 +104541,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -104554,7 +104554,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -104592,7 +104592,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104606,7 +104606,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -104836,7 +104836,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -105118,7 +105118,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -105438,7 +105438,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105452,7 +105452,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105669,7 +105669,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -105682,7 +105682,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -105720,7 +105720,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105734,7 +105734,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105964,7 +105964,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -106579,7 +106579,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -106861,7 +106861,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -107143,7 +107143,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -107412,7 +107412,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -107425,7 +107425,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -107463,7 +107463,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -107477,7 +107477,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -107707,7 +107707,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -108027,7 +108027,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108041,7 +108041,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108591,7 +108591,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -108604,7 +108604,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -108642,7 +108642,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108656,7 +108656,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108873,7 +108873,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -108886,7 +108886,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -108924,7 +108924,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108938,7 +108938,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109206,7 +109206,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109220,7 +109220,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109783,7 +109783,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -110065,7 +110065,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -110718,7 +110718,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -110732,7 +110732,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -111244,7 +111244,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -112141,7 +112141,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -112423,7 +112423,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -112705,7 +112705,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -113025,7 +113025,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113039,7 +113039,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113269,7 +113269,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -113589,7 +113589,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113603,7 +113603,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113833,7 +113833,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -114717,7 +114717,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -114730,7 +114730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -114768,7 +114768,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -114782,7 +114782,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -115012,7 +115012,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -115293,7 +115293,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -115690,7 +115690,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -116958,7 +116958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -116971,7 +116971,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -117009,7 +117009,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117023,7 +117023,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117240,7 +117240,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -117253,7 +117253,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -117291,7 +117291,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117305,7 +117305,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117535,7 +117535,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -118099,7 +118099,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -118381,7 +118381,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -118996,7 +118996,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -119265,7 +119265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -119278,7 +119278,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -119316,7 +119316,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119330,7 +119330,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119547,7 +119547,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -119560,7 +119560,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -119598,7 +119598,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119612,7 +119612,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119841,7 +119841,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -120238,7 +120238,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -120520,7 +120520,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -120840,7 +120840,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -120854,7 +120854,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -121084,7 +121084,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -121366,7 +121366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -121648,7 +121648,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -121917,7 +121917,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -121930,7 +121930,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -121968,7 +121968,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -121982,7 +121982,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -122199,7 +122199,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -122212,7 +122212,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -122250,7 +122250,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -122264,7 +122264,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -122494,7 +122494,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -122776,7 +122776,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -123058,7 +123058,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -123327,7 +123327,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -123340,7 +123340,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -123378,7 +123378,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -123392,7 +123392,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -123622,7 +123622,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -124237,7 +124237,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -124519,7 +124519,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -124801,7 +124801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -125121,7 +125121,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -125135,7 +125135,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -125403,7 +125403,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C166280"
+		(property "JLCPCB PN" "C155745"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -125417,7 +125417,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "RTT012430FTH"
+		(property "PN" "RC0201FR-07240RL"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -125929,7 +125929,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -126198,7 +126198,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "200pF"
+		(property "Value" "220pF"
 			(at 0 -1.05 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -126211,7 +126211,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -126249,7 +126249,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB PN" "C565508"
+		(property "JLCPCB PN" "C281748"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -126263,7 +126263,7 @@
 				(justify mirror)
 			)
 		)
-		(property "PN" "FN03B221K160PLG"
+		(property "PN" "CC0201KRX7R9BB221"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -126821,45 +126821,16 @@
 		(layer "B.SilkS")
 		(uuid "ede62551-6476-4a81-a627-51283575f5fe")
 	)
-	(gr_line
-		(start 49.8 90.2)
+	(gr_rect
+		(start 49.8 49.8)
 		(end 90.2 90.2)
 		(stroke
 			(width 0.25)
 			(type solid)
 		)
+		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "0190caaf-e4c0-46af-97d4-da60937e8c97")
-	)
-	(gr_line
-		(start 90.2 90.2)
-		(end 90.2 49.8)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9db89b89-c5d9-458c-8c75-88e609521a0d")
-	)
-	(gr_line
-		(start 49.8 49.8)
-		(end 49.8 90.2)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "db7091da-a2a5-47b9-87fc-96193a0534e2")
-	)
-	(gr_line
-		(start 90.2 49.8)
-		(end 49.8 49.8)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e2193d5b-c0e4-45e6-b446-021c60b28fe7")
+		(uuid "a7ebf7bc-d472-47bd-8f6f-5d544b01b5e0")
 	)
 	(gr_text "BOTTOM"
 		(at 89.408 88.646 0)
