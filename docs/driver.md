@@ -10,6 +10,8 @@ nav_order: 1
 
 # Driver PCB
 
+If you are looking for a single color driver PCB, we recommend ordering v1.9. If you require a two-color version, v2.0 might be a better choice because of the arrangements of the individual LEDs, but expect potential electrical issues. Please [get in contact]({{site.baseurl}}/Contact) to discuss details of your requirement.
+
 The driver board measures 40×40mm² and has four 4×4 male pins (>=v0.2) or two 2×6 female sockets (v0.1) on the bottom layer. The top of the driver board is either covered in LEDs (>=v1.0) or has connectors to off-the-shelf LED matrices. [Version 2](#driver-v2) makes the use of different colors easier, but is functionally very similar to [version 1](#driver-v1).
 
 Historically, the driver used four off-the-shelf LED panels for each of the quadrants (<=v0.3). Since then, each of the quadrants has its own micro controller unit (MCU) that handles a matrix of 8×8 LEDs. The panels with two 2×6 connectors use I²C for the communication between comm and driver, since version v0.2 SPI was used for this internal communication as well. The MCUs translate the brightness commands for pixels into pulse-width modulation for individual LEDs.
@@ -34,13 +36,15 @@ Functionally, the driver-v2.x is very similar to the driver-v1.x. During the cre
 
 ![Driver version 1.9](assets/driver_v1p9_front_photo.jpg){:standalone .ifr .clear data-img-class="pop"}
 
-The Driver board v1.9 is a PCB measuring 40×40mm² that resembles most of the properties of the Driver v1.2…v1.8. It fixes some of the hardware issues we identified in the earlier versions of the v1.2 to v1.8, such as potential instabilities during operation and unexpected voltage drops when switching many of the LEDs in many different panels of an arena at the same time. The [schematic]({{site.baseurl}}/Generation%204/Panel/docs/driver_40mm_atmega_v1.9_schematic.pdf) is similar to the earlier versions, but note the difference how the LEDs are drained through the MOSFET and additional capacitors. These drivers are direct drop-in replacements for existing single-colored panels. This is also the reason, they received a version number starting with 1, although developed much later than the v2 series. Most likely this is the last iteration for the G4 driver panels to be developed.
+The Driver board v1.9 is a PCB measuring 40×40mm² that resembles most of the properties of the Driver v1.2…v1.8. It fixes some of the hardware issues we identified in the earlier versions of the v1.2 to v1.8, such as potential instabilities during operation and unexpected voltage drops when switching many of the LEDs in many different panels of an arena at the same time. The [schematic]({{site.baseurl}}/Generation%204/Panel/docs/driver_40mm_atmega_v1.9_schematic.pdf) is similar to the earlier versions, but note the difference how the LEDs are drained through the MOSFET and additional capacitors. 
+
+These drivers v1.9 are direct drop-in replacements for existing single-colored panels (v1.2…v1.8). This is also the reason, they received a version number starting with 1, although developed much later than the v2 series. Most likely this is the last iteration for the G4 driver panels to be developed.
+
+Confusingly, the ATmega328 chips are mounted more similar to the v2 series than to the v1 series. It should still be easy to distinguish this version, as all v1.9 boards have their version number printed on the PCB (v.1.9.5 for the example picture). Furthermore, there are fewer MOSFET chips (the smaller rectangulars) and they are arranged in a different alignment (vertical line between top and bottom connectors, not horizontal).
 
 This version of the driver board was designed by Will Dickson at [IORodeo](https://iorodeo.com/). 
 
 ## Panel Driver PCB v1.x (40mm) {#driver-v1}
-
-
 
 ![Driver version 1.2](assets/driver_v1p2_front_photo.jpg){:standalone .ifr .clear data-img-class="pop"}
 
