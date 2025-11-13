@@ -30,7 +30,17 @@ For the G4 drivers, a column of eight LEDs within a quadrant is connected to suc
 
 Functionally, the driver-v2.x is very similar to the driver-v1.x. During the creation of visual patterns, a [configuration option has to be set]({{site.baseurl}}/Generation%204/Display_Tools/docs/pattern-generator.html#checkerboard), everything is the same for setting up and running an arena with either driver-v1.x or driver-v2.x. But because of this small difference, mixing different versions of driver-boards in the same arena is currently not supported.
 
+## Panel Driver PCB v1.9 (40mm) {#driver-v1p9}
+
+![Driver version 1.9](assets/driver_v1p9_front_photo.jpg){:standalone .ifr .clear data-img-class="pop"}
+
+The Driver board v1.9 is a PCB measuring 40×40mm² that resembles most of the properties of the Driver v1.2…v1.8. It fixes some of the hardware issues we identified in the earlier versions of the v1.2 to v1.8, such as potential instabilities during operation and unexpected voltage drops when switching many of the LEDs in many different panels of an arena at the same time. The [schematic]({{site.baseurl}}/Generation%204/Panel/docs/driver_40mm_atmega_v1.9_schematic.pdf) is similar to the earlier versions, but note the difference how the LEDs are drained through the MOSFET and additional capacitors. These drivers are direct drop-in replacements for existing single-colored panels. This is also the reason, they received a version number starting with 1, although developed much later than the v2 series. Most likely this is the last iteration for the G4 driver panels to be developed.
+
+This version of the driver board was designed by Will Dickson at [IORodeo](https://iorodeo.com/). 
+
 ## Panel Driver PCB v1.x (40mm) {#driver-v1}
+
+
 
 ![Driver version 1.2](assets/driver_v1p2_front_photo.jpg){:standalone .ifr .clear data-img-class="pop"}
 
