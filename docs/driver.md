@@ -10,9 +10,9 @@ nav_order: 1
 
 # Driver PCB
 
-If you are looking for a single color driver PCB, we recommend ordering v1.9. If you require a two-color version, v2.0 might be a better choice because of the arrangements of the individual LEDs, but expect potential electrical issues. Please [get in contact]({{site.baseurl}}/Contact) to discuss details of your requirement.
+If you are looking for a single color driver PCB, **we recommend ordering [v1.9](#driver-v1p9)**. We use those across arenas connected via NI Controller ("G4", 12-12 v1…v6) as well as the Teensy-based version ("G4.1", 12-12 v7+). We have an experimental two-color version named Driver-v2.0 which worked in a few setups, but they are not as thoroughly tested. Consider yourself warned and please [get in contact]({{site.baseurl}}/Contact) to discuss details of your requirements.
 
-The driver board measures 40×40mm² and has four 4×4 male pins (≥v0.2) or two 2×6 female sockets (v0.1) on the bottom layer. The top of the driver board is either covered in LEDs (≥v1.0) or has connectors for off-the-shelf LED matrices. [Version 2](#driver-v2) makes the use of different colors easier but is functionally very similar to [version 1](#driver-v1).
+All versions of the driver board measures 40×40mm² and has four 4×4 male pins (≥v0.2) or two 2×6 female sockets (v0.1) on the bottom side. The top of the driver board is either covered in LEDs (≥v1.0) or has connectors for off-the-shelf LED matrices. [Version 2](#driver-v2) makes the use of different colors easier but is functionally very similar to [version 1](#driver-v1).
 
 Historically, the driver used four off-the-shelf LED panels, one for each quadrant (≤v0.3). Since then, each of the four quadrants has its own microcontroller unit (MCU) that controls a matrix of 8×8 LEDs. The panels with two 2×6 connectors use I²C for communication between the comm and driver boards; starting with version v0.2, SPI has been used for this internal communication. The MCUs translate brightness commands for individual pixels into pulse-width modulation (PWM) signals for the LEDs.
 
@@ -36,7 +36,7 @@ Functionally, driver-v2.x is very similar to driver-v1.x. During visual pattern 
 
 ![Driver version 1.9](assets/driver_v1p9_front_photo.jpg){:standalone .ifr .clear data-img-class="pop"}
 
-The Driver board v1.9 is a PCB measuring 40×40mm² that resembles most of the properties of the Driver v1.2…v1.8. It fixes some of the hardware issues we identified in the earlier versions of the v1.2 to v1.8, such as potential instabilities during operation and unexpected voltage drops when switching many of the LEDs in many different panels of an arena at the same time. The [schematic]({{site.baseurl}}/Generation%204/Panel/docs/driver_40mm_atmega_v1.9_schematic.pdf) is similar to the earlier versions, but note the difference how the LEDs are drained through the MOSFET and additional capacitors. 
+The Driver board v1.9 is a PCB measuring 40×40mm² and the most stable and tested version of the PCBs. It combines all the learnings from Driver v1.2…v1.8 into one reliable design. The [schematic]({{site.baseurl}}/Generation%204/Panel/docs/driver_40mm_atmega_v1.9_schematic.pdf) is similar to the earlier versions, but note the difference how the LEDs are drained through the MOSFET and additional capacitors. 
 
 These drivers v1.9 are direct drop-in replacements for existing single-colored panels (v1.2…v1.8). This is also the reason, they received a version number starting with 1, although developed much later than the v2 series. Most likely this is the last iteration for the G4 driver panels to be developed.
 
